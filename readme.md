@@ -3,11 +3,12 @@ Nodejs software developer, Experienced in Nestjs framework with stack of MongoDB
 
 Born 1999, Located in Iran.
 Please contact me preferebly via Whatsapp or Email instead.
-[Github](github.com/thekhanj)
-[Email](mailto:pooyankhan@gmail.com)
-[LikedIn](https://www.linkedin.com/in/pooyan-khanjankhani-a50459177/)
-[Whatsapp](+989213762364)
-[Telegram](TheKhanj)
+
+- [Github](github.com/thekhanj)
+- [Email](mailto:pooyankhan@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/pooyan-khanjankhani-a50459177/)
+- Whatsapp: +98 921 376 2364
+- Telegram: @TheKhanj
 
 ## Technical Experiences
 - **Intermediate Software Developer** at [Tejarat Shayan Company](https://tejaratshayan.com/) for 1 year.
@@ -23,11 +24,11 @@ Please contact me preferebly via Whatsapp or Email instead.
   - Developed multiple freelance projects.
 - **Student of Mathematics** at [University Of Tehran](https://www.linkedin.com/school/university-of-tehran/?originalSubdomain=ir) from 2018 to present.
   - Student at second best university in Iran, by international ranking it's the best university though.
-- student of **Computer Olympiad** in Atomic Energy highschool:
+- Student of **Computer Olympiad** in Atomic Energy highschool:
   - Learned **data structure and algorithm** from some of the **best** teachers in Iran like **Ali Bahjati(winner of world gold medal in computer olympiads)**, **Ali Haghani(national gold medal)**, **Mohammad Reza Shokri(national gold medal)**, **Ali Asadi(Teacher in national olympiad department)** and many more...
 - **Student** at [Atomic Energy Highschool](http://www.aehighschool.com/) for 4 years.
   - Rank of 950 in national **Konkoor** exam.
   - Studied in **best** highschool in Iran by any term, Their resume is available at their website.
 
 ## Open Source
-- Contributed in multiple projects like [**NestJS**](https://github.com/nestjs/nest/graphs/contributors), [@nestjs/terminus](https://github.com/nestjs/terminus/graphs/contributors), [ChaiJs](https://github.com/chaijs/chaijs.github.io/graphs/contributors), [Jest](https://github.com/facebook/jest)
+- Contributed in multiple projects like [NestJS](https://github.com/nestjs/nest/graphs/contributors), [@nestjs/terminus](https://github.com/nestjs/terminus/graphs/contributors), [ChaiJs](https://github.com/chaijs/chaijs.github.io/graphs/contributors), [Jest](https://github.com/facebook/jest)
