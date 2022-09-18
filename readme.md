@@ -26,6 +26,7 @@ Please contact me preferebly via Whatsapp or Email instead.
   - Student at second best university in Iran, by international ranking it's the best university though.
 - Student of **Computer Olympiad** in Atomic Energy highschool:
   - Learned **data structure and algorithm** from some of the **best** teachers in Iran like **Ali Bahjati(winner of world gold medal in computer olympiads)**, **Ali Haghani(national gold medal)**, **Mohammad Reza Shokri(national gold medal)**, **Ali Asadi(Teacher in national olympiad department)** and many more...
+  - Link to my [codeforces account](https://codeforces.com/profile/Khanj)
 - **Student** at [Atomic Energy Highschool](http://www.aehighschool.com/) for 4 years.
   - Rank of 950 in national **Konkoor** exam.
   - Studied in **best** highschool in Iran by any term, Their resume is available at their website.
