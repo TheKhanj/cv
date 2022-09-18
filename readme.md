@@ -21,6 +21,7 @@ Please contact me preferebly via Whatsapp or Email instead.
 - **Junior Software Developer** at [Bournix](https://ir.linkedin.com/company/bournix) for 1 year.
   - Worked as junior software developer at startup called bournix for 1 year
   - Learned typescript in depth
+  - Learned **Linux command line tools** like coreutils and gnu stuff.
   - Developed multiple freelance projects.
 - **Student of Mathematics** at [University Of Tehran](https://www.linkedin.com/school/university-of-tehran/?originalSubdomain=ir) from 2018 to present.
   - Student at second best university in Iran, by international ranking it's the best university though.
