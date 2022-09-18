@@ -28,6 +28,7 @@ Please contact me preferebly via Whatsapp or Email instead.
 - Student of **Computer Olympiad** in Atomic Energy highschool:
   - Learned **data structure and algorithm** from some of the **best** teachers in Iran like **Ali Bahjati(winner of world gold medal in computer olympiads)**, **Ali Haghani(national gold medal)**, **Mohammad Reza Shokri(national gold medal)**, **Ali Asadi(Teacher in national olympiad department)** and many more...
   - Link to my [codeforces account](https://codeforces.com/profile/Khanj)
+- Wrote a trading bot in python which had some challenges like **crawling web** for stocks info, having right logic to trade, keeping stats of trades and doing the trades as fast as possible.
 - **Student** at [Atomic Energy Highschool](http://www.aehighschool.com/) for 4 years.
   - Rank of 950 in national **Konkoor** exam.
   - Studied in **best** highschool in Iran by any term, Their resume is available at their website.
