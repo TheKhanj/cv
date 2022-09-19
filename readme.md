@@ -4,7 +4,7 @@ Nodejs software developer, Experienced in Nestjs framework with stack of MongoDB
 Born 1999, Located in Iran.
 Please contact me preferebly via Whatsapp or Email instead.
 
-- [Github](github.com/thekhanj)
+- [Github](https://github.com/thekhanj)
 - [Email](mailto:pooyankhan@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/pooyan-khanjankhani-a50459177/)
 - Whatsapp: +98 921 376 2364
