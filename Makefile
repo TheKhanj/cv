@@ -8,7 +8,7 @@ serve: index.html
 	python3 -m http.server 8080
 
 serve_watch:
-	echo 'README.md' | entr -r make serve
+	printf "README.md\nindex.template.html" | entr -r make serve
 
 clean:
 	rm -f index.html

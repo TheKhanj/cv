@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css">
-
 # Pooyan Khanjankhani
 Nodejs software developer, Experienced in Nestjs framework with stack of MongoDB as database, Typescript, Jest as testing framework, Rabbitmq as message broker and Redis as in memory storage
 
