@@ -7,7 +7,7 @@ tempalte="$3"
 markdown -S "$input" >tmp.html
 
 while read -r line; do
-	if [ "$line" = '{{main-content}}' ]; then
+	if [ "$line" = '<div>{{main-content}}</div>' ]; then
 		cat tmp.html
 	else
 		echo "$line"
