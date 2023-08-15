@@ -2,13 +2,14 @@
 Nodejs software developer, Experienced in Nestjs framework with stack of MongoDB as database, Typescript, Jest as testing framework, Rabbitmq as message broker and Redis as in memory storage
 
 Born 2000, Located in Iran.
-Please contact me preferebly via Whatsapp or Email instead.
+Please contact me preferebly via Telegram or Email instead.
 
 - [Github](https://github.com/thekhanj)
 - [Email](mailto:pooyankhan@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/pooyan-khanjankhani-a50459177/)
-- Whatsapp: +98 921 376 2364
-- Telegram: @TheKhanj
+- Mobile number: +98 921 376 2364
+- [Telegram](https://t.me/thekhanj)
+- [Whatsapp](https://wa.me/989213762364)
 
 ## Technical Experiences
 - **Intermediate Software Engineer** at [Digikala](https://digikala.com/).
