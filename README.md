@@ -15,7 +15,7 @@ Please contact me preferebly via Telegram or Email instead.
 - [LinkedIn](https://www.linkedin.com/in/pooyan-khanjankhani-a50459177/)
 
 ## Technical Experiences
-- **Intermediate Software Engineer** at [Digikala](https://digikala.com/).
+- **Intermediate Software Engineer** at [Digikala](https://www.linkedin.com/company/digikala/?originalSubdomain=ir).
   - Developed a database seeder library for in-house framework
   - Add dependency injection feature to in-house framework
   - Multiple contributions in open source projects like [@vimeo/psalm](https://github.com/vimeo/psalm), [@symfony](https://github.com/symfony/symfony), [v2ray](https://github.com/v2ray/v2ray-core) and ...
