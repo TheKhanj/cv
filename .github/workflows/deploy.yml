@@ -17,5 +17,4 @@ jobs:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Run command on server
-        run: ssh-add -l
-        # run: ssh root@ir2.hollalujah.ir "cd /var/www/html/cv && git pull && make && systemctl restart nginx"
+        run: ssh root@ir2.hollalujah.ir "cd /var/www/html/cv && git pull && make && systemctl restart nginx"
