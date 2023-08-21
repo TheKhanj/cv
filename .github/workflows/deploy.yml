@@ -12,4 +12,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run command on server
+        uses: webfactory/ssh-agent@v0.8.0
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
         run: ssh root@ir2.hollalujah.ir "cd /var/www/html/cv && git pull && make && systemctl restart nginx"
