@@ -19,7 +19,6 @@ Please contact me preferebly via Telegram or Email instead.
   - Developed a database seeder library for in-house framework
   - Add dependency injection feature to in-house framework
   - Multiple contributions in open source projects like [@vimeo/psalm](https://github.com/vimeo/psalm), [@symfony](https://github.com/symfony/symfony), [v2ray](https://github.com/v2ray/v2ray-core) and ...
-  - Learned most of software engineering concepts are sacrificed for business purposes and they don't matter after all!
 - **Intermediate Software Engineer** at [Tejarat Shayan Company](https://tejaratshayan.com/) for 1 year.
   - Learned about **OOP design patterns**, **TDD** programming, **mongodb**, **message brokers** like rabbitmq, **redis**, **reactive programming**, **microservice** design and **javascript** in general.
   - Developed a 2PC platform(although 2PC transactions are not an option in microservices, but that was what our company wanted), something like **Camunda** for orchestrating **transactions between microservices** which have local transactionality themselves, There was some challenges like properly getting configuration and **expression evaluation** at runtime and writing **maintainable** code with no duplication, Writing proper **unit tests** and also **e2e tests** for this crutial core functionality of the system.
