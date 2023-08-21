@@ -9,7 +9,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: webfactory/ssh-agent@v0.7.0
+      - uses: appleboy/ssh-action@v1.0.0
         with:
-          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-      - run: ssh root@ir2.hollalujah.ir "cd /var/www/html/cv && git pull && make && systemctl restart nginx"
+          host: ir2.hollalujah.ir
+          username: root
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: 22
+          script: whoami
