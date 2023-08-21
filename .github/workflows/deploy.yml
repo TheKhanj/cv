@@ -15,4 +15,8 @@ jobs:
           username: root
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
-          script: whoami
+          script: |
+            cd /var/www/html/cv
+            git pull
+            make
+            systemctl restart nginx
