@@ -41,8 +41,7 @@ Please contact me via Telegram or Email.
     - Not adding business logic to library.
     - Maintaining minimal dependencies which is critical in library development.
     - Add a feature to Nestjs to document Rabbitmq controllers automatically like swagger.
-    - Learned semantical versioning
-    - Not breaking the old functionalities.
+    - Learned semantical versioning and not breaking the old functionalities.
     - Wrote unit tests which becomes necessary in library development cause its not possible to test libraries like applications.
     - Integration with logging platform
     - Wrote maintainable and reusable code supporting multiple versions of Nestjs framework.
