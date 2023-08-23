@@ -64,10 +64,10 @@ Please contact me via Telegram or Email.
   - Developed multiple freelance projects.
 - **Student of Mathematics** at [University Of Tehran](https://www.linkedin.com/school/university-of-tehran/?originalSubdomain=ir) from 2018 to present.
   - Student at second best university in Iran, by international ranking it's the best university though.
-- Student of Computer Olympiad at Atomic Energy high school:
+- **Student** of **Computer Olympiad** at [Atomic Energy high school](http://www.aehighschool.com/):
   - Learned data structure and algorithm from some of the best teachers in Iran, Ali Bahjati, Ali Haghani, Mohammad Reza Shokri, Ali Asadi and many more...
-  - Link to my [codeforces account](https://codeforces.com/profile/Khanj)
+  - Link to my [**codeforces account**](https://codeforces.com/profile/Khanj)
 - Wrote a trading bot in python which crawled web for stocks info and traded based on provided logic.
-- **Student** at [Atomic Energy Highschool](http://www.aehighschool.com/) for 4 years.
+- **Student** at [Atomic Energy high school](http://www.aehighschool.com/) for 4 years.
   - Rank of 950 in national Konkoor exam.
   - Studied in best high school in Iran, their resume is available at their website.
