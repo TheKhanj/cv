@@ -1,7 +1,7 @@
 # Pooyan Khanjankhani
 
 A Software Engineer with quite a bit of experience in NodeJs and NestJs
-framework, also **top 20 contributors** of NestJs. Very good understanding of
+framework, also top 20 contributors of NestJs. Very good understanding of
 algorithms and data structures. A geek, always tinkering with computers. In
 love with Linux and Unix philosophy.
 
