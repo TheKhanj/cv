@@ -1,7 +1,7 @@
 # Pooyan Khanjankhani
 
 A Software Engineer with quite a bit of experience in NodeJs and NestJs
-framework, also top 20 contributors of NestJs. Very good understanding of
+framework, also **top 20 contributors** of NestJs. Very good understanding of
 algorithms and data structures. A geek, always tinkering with computers. In
 love with Linux and Unix philosophy.
 
@@ -19,8 +19,8 @@ Please contact me via Telegram or Email.
 ## Open Source
 - Contributed in multiple projects like
   - [NestJS](https://github.com/nestjs/nest/graphs/contributors) A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript.
-  - [ChaiJs](https://github.com/chaijs/chaijs.github.io/graphs/contributors) The chaijs.com website source code.
-  - [Jest](https://github.com/facebook/jest/graphs/contributors) Delightful JavaScript Testing.
+  - [ChaiJs](https://github.com/chaijs/chaijs.github.io/) The chaijs.com website source code.
+  - [Jest](https://github.com/facebook/jest/) Delightful JavaScript Testing.
   - [@vimeo/psalm](https://github.com/vimeo/psalm/) A static analysis tool for finding errors in PHP applications
   - [@symfony](https://github.com/symfony/symfony/) The Symfony PHP framework
   - [V2ray](https://github.com/v2ray/v2ray-core/) A platform for building proxies to bypass network restrictions.
