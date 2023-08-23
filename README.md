@@ -1,5 +1,3 @@
-<img id="profile-picture" alt="profile-picture" src="assets/profile.jpeg" width=300>
-
 # Pooyan Khanjankhani
 
 A Software Engineer with quite a bit of experience in NodeJs and NestJs
@@ -9,12 +7,12 @@ algorithms and data structures. A geek, always tinkering with computers.
 Born 2000, located in Iran.
 Please contact me via Telegram or Email.
 
+- [**Github**](https://github.com/thekhanj)
 - Mobile number: +98 921 376 2364
 - [Telegram: @TheKhanj](https://t.me/thekhanj)
 - [Whatsapp: +98 921 376 2364](https://wa.me/989213762364)
 - [Email: pooyankhan@gmail.com](mailto:pooyankhan@gmail.com)
 - [Website: thekhanj.ir](https://thekhanj.ir)
-- [Github](https://github.com/thekhanj)
 - [LinkedIn](https://www.linkedin.com/in/pooyan-khanjankhani-a50459177/)
 
 ## Open Source
@@ -26,7 +24,6 @@ Please contact me via Telegram or Email.
   - [@symfony](https://github.com/symfony/symfony/) The Symfony PHP framework
   - [V2ray](https://github.com/v2ray/v2ray-core/) A platform for building proxies to bypass network restrictions.
   - [@nestjs/terminus](https://github.com/nestjs/terminus/) Terminus module for Nest framework (node.js).
-- Multiple open source projects on my [Github account](https://github.com/thekhanj)
 
 ## Technical Experiences
 - **Software Engineer** at [Digikala](https://www.linkedin.com/company/digikala/?originalSubdomain=ir).
