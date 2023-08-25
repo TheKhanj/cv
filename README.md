@@ -35,15 +35,12 @@ Please contact me via Telegram or Email.
 - **Intermediate Software Engineer** at [Tejarat Shayan Company](https://tejaratshayan.com/) for 1 year.
   - Learned about OOP design patterns, TDD programming, mongodb, message brokers like rabbitmq, redis, reactive programming, microservice design and javascript in general.
   - Developed a [2PC platform](https://github.com/thekhanj/2pc-platform), something like Camunda for orchestrating transactions between microservices which have local transactionality themselves, there was some challenges like properly getting configuration and expression evaluation at runtime and writing maintainable, writing proper unit tests and also e2e tests for this critical functionality of the system.
-  - Developed a npm package for the company to put common codes in all of our microservices there:
-    - Learned to write a library which is extremely hard process compared to application development!
-    - Not adding business logic to library.
-    - Maintaining minimal dependencies which is critical in library development.
+  - Developed a npm package to put common codes across different microservices there:
+    - Learned to write a library which is extremely hard process compared to application development! Deal with challenges like not adding business logic to library, maintaining minimal dependencies which is critical in library development.
     - Add a feature to Nestjs to document Rabbitmq controllers automatically like swagger.
-    - Learned semantical versioning and not breaking the old functionalities.
-    - Wrote unit tests which becomes necessary in library development cause its not possible to test libraries like applications.
+    - Learned semantical versioning and not breaking the old functionalities. Also supporting multiple versions of peer dependencies.
+    - Wrote unit tests which becomes necessary in library development cause it's not possible to test libraries like applications.
     - Integration with logging platform
-    - Wrote maintainable and reusable code supporting multiple versions of Nestjs framework.
     - Mono repo development which helped at having easier development environment setup.
   - Developed a product service which had some challenges in keeping the integrity of the data in database after each request.
     - It used Shopify data model.
