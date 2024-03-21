@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  www:
+    image: kugland/darkhttpd:latest
+    container_name: thekhanj_ir
+    volumes:
+      - "/var/www/thekhanj.ir:/www:ro"
+    ports:
+      - "3085:80"
+    restart: always

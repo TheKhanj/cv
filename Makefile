@@ -2,7 +2,7 @@ all: index.html
 
 index.html: README.md index.template.html
 	markdown -S "$<" > "$@"
-	./scripts/create_html.sh "$<" "$@" index.template.html
+	sh ./scripts/create_html.sh "$<" "$@" index.template.html
 
 serve: index.html
 	python3 -m http.server 8080
