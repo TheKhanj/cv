@@ -26,6 +26,7 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           script: |
             cd /var/www/thekhanj.ir
+            git pull
             make
             docker compose stop
             docker compose up -d
