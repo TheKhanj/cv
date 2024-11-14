@@ -33,7 +33,7 @@ Please contact me via Telegram or Email.
   - Read books:
     - [System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
     - [The Gang of Four](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
-    - [Clean code]([https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882))
+    - [Clean code]([https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - **Intermediate Software Engineer** at [Tejarat Shayan Company](https://tejaratshayan.com/) for 1 year.
   - Learned about OOP design patterns, TDD programming, mongodb, message brokers like rabbitmq, redis, reactive programming, microservice design and javascript in general.
   - Developed a [2PC platform](https://github.com/thekhanj/2pc-platform), something like Camunda for orchestrating transactions between microservices which have local transactionality themselves, there was some challenges like properly getting configuration and expression evaluation at runtime and writing maintainable, writing proper unit tests and also e2e tests for this critical functionality of the system.
