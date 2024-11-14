@@ -16,9 +16,9 @@ jobs:
           key: ${{ secrets.SSH_KEY }}
           port: ${{ secrets.SSH_PORT }}
           script: |
-            cd /var/www/thekhanj.ir
-            git pull
-            make
-            docker compose stop
+            cd /var/www/thekhanj.ir || exit 1
+            git pull &&
+              make &&
+              docker compose stop ||
+              exit 2
             docker compose up -d
-
