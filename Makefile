@@ -5,7 +5,7 @@ index.html: README.md index.template.html
 	sh ./scripts/create_html.sh "$<" "$@" index.template.html
 
 serve: index.html
-	python3 -m http.server 8080
+	caddy file-server --root . -l :8000 -b
 
 serve_watch:
 	printf "README.md\nindex.template.html" | entr -r make serve
