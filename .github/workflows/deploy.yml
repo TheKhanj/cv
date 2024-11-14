@@ -9,15 +9,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: garygrossgarten/github-action-scp@release
-        with:
-          local: .
-          remote: /var/www/thekhanj.ir
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.SSH_USER }}
-          privateKey: ${{ secrets.SSH_KEY }}
-          port: ${{ secrets.SSH_PORT }}
-          rmRemote: true
       - uses: appleboy/ssh-action@v1.0.0
         with:
           host: ${{ secrets.HOST }}
