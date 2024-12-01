@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   www:
     image: kugland/darkhttpd:latest
@@ -9,3 +7,9 @@ services:
     ports:
       - "3085:80"
     restart: always
+    networks:
+      - cloud
+
+networks:
+  cloud:
+    external: true
