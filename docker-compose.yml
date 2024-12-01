@@ -1,7 +1,7 @@
 services:
   www:
     image: kugland/darkhttpd:latest
-    container_name: home_site_thekhanj_ir
+    container_name: cloud_site_thekhanj_ir
     volumes:
       - "/var/www/thekhanj.ir:/www:ro"
     ports:
