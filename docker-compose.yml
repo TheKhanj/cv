@@ -4,8 +4,6 @@ services:
     container_name: cloud_site_thekhanj_ir
     volumes:
       - "/var/www/thekhanj.ir:/www:ro"
-    ports:
-      - "3085:80"
     restart: always
     networks:
       - cloud
