@@ -1,71 +1,94 @@
 # Pooyan Khanjankhani
 
-Software Engineer experienced in NestJs framework, in fact, top 20 contributors
-of it. Relatively good understanding of algorithms and data structures. A geek,
-always tinkering with computers. In love with GNU/Linux and Unix philosophy.
+**Software Engineer** with extensive experience in backend development using the NestJS framework—ranked among the top 20 contributors. Strong foundation in algorithms and data structures. Passionate about open source, the Unix philosophy, and GNU/Linux systems. Always exploring and building things around computers.
 
-Born 2000, located in Iran.
-Please contact me via Telegram or Email.
+Born 2000 · Based in Iran  
+Available via Telegram or Email
 
-- [**Github**](https://github.com/thekhanj)
-- Mobile number: +98 921 376 2364
+- [**GitHub**](https://github.com/thekhanj)
+- 📞 +98 921 376 2364  
 - [Telegram: @TheKhanj](https://t.me/thekhanj)
-- [Whatsapp: +98 921 376 2364](https://wa.me/989213762364)
-- [Email: pooyankhan@gmail.com](mailto:pooyankhan@gmail.com)
-- [Website: thekhanj.ir](https://thekhanj.ir)
+- [WhatsApp](https://wa.me/989213762364)
+- [Email](mailto:pooyankhan@gmail.com)
+- [Website](https://thekhanj.ir)
 - [LinkedIn](https://www.linkedin.com/in/pooyan-khanjankhani-a50459177/)
 
-## Open Source
-- Contributed in multiple projects like
-  - [**NestJs**](https://github.com/nestjs/nest/graphs/contributors) A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript.
-  - [ChaiJs](https://github.com/chaijs/chaijs.github.io/) The chaijs.com website source code.
-  - [Jest](https://github.com/facebook/jest/) Delightful JavaScript Testing.
-  - [@vimeo/psalm](https://github.com/vimeo/psalm/) A static analysis tool for finding errors in PHP applications
-  - [@symfony](https://github.com/symfony/symfony/) The Symfony PHP framework
-  - [V2ray](https://github.com/v2ray/v2ray-core/) A platform for building proxies to bypass network restrictions.
-  - [@nestjs/terminus](https://github.com/nestjs/terminus/) Terminus module for Nest framework (node.js).
+---
 
-## Technical Experiences
-- **Software Engineer** at [Digikala](https://www.linkedin.com/company/digikala/?originalSubdomain=ir).
-  - Developed a database seeder library for in-house framework
-  - Add dependency injection feature to in-house framework
-  - Learned PHP, Symfony
-  - Read books:
-    - [System Design Interview](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
-    - [The Gang of Four](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
-    - [Clean code](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- **Intermediate Software Engineer** at [Tejarat Shayan Company](https://tejaratshayan.com/) for 1 year.
-  - Learned about OOP design patterns, TDD programming, mongodb, message brokers like rabbitmq, redis, reactive programming, microservice design and javascript in general.
-  - Developed a [2PC platform](https://github.com/thekhanj/2pc-platform), something like Camunda for orchestrating transactions between microservices which have local transactionality themselves, there was some challenges like properly getting configuration and expression evaluation at runtime and writing maintainable, writing proper unit tests and also e2e tests for this critical functionality of the system.
-  - Developed a npm package to put common codes across different microservices there:
-    - Learned to write a library which is extremely hard process compared to application development! Deal with challenges like not adding business logic to library, maintaining minimal dependencies which is critical in library development.
-    - Add a feature to Nestjs to document Rabbitmq controllers automatically like swagger.
-    - Learned semantical versioning and not breaking the old functionalities. Also supporting multiple versions of peer dependencies.
-    - Wrote unit tests which becomes necessary in library development cause it's not possible to test libraries like applications.
-    - Integration with logging platform
-    - Mono repo development which helped at having easier development environment setup.
-  - Developed a product service which had some challenges in keeping the integrity of the data in database after each request.
-    - It used Shopify data model.
-  - Improved devops operations by removing duplicate configurations and writing a cli tool for all those stuff.
-    - Devops operations in microservice design becomes a bit harder to maintain. It introduces challenges like accessing production database in development environment because of some human error
-  - Crawled all of Iran's cities and provinces data from different sources by writing scripts.
-  - Read books:
-    - [Gang of Four Design Patterns](https://www.digitalocean.com/community/tutorials/gangs-of-four-gof-design-patterns)
-    - [Unit Testing Principles](https://www.manning.com/books/unit-testing)
-    - [Microservices Patterns by Chris Rechardson](https://microservices.io/book)
-    - [Clean Code by Uncle Bob](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-    - [Learning SQL](https://www.amazon.com/Learning-SQL-Alan-Beaulieu/dp/0596007272?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A3S9C1H7FAXDHK)
-- **Junior Software Developer** at [Bournix](https://ir.linkedin.com/company/bournix) for 1 year.
-  - Worked as junior software developer at startup called Bournix for 1 year
-  - Learned typescript in depth
-  - Learned Linux command line tools like Coreutils and GNU stuff.
-  - Developed multiple freelance projects.
-- **Student of Mathematics** at [University Of Tehran](https://www.linkedin.com/school/university-of-tehran/?originalSubdomain=ir) from 2018 to present.
-  - Student at second best university in Iran, by international ranking it's the best university though.
-- **Student** of **Computer Olympiad** at [Atomic Energy high school](http://www.aehighschool.com/):
-  - Learned data structure and algorithm from some of the best teachers in Iran, Ali Bahjati, Ali Haghani, Mohammad Reza Shokri, Ali Asadi and many more...
-  - Link to my [**codeforces account**](https://codeforces.com/profile/Khanj)
-- Wrote a trading bot in python which crawled web for stocks info and traded based on provided logic.
-- **Student** at [Atomic Energy high school](http://www.aehighschool.com/) for 4 years.
-  - Rank of 950 in national Konkoor exam.
-  - Studied in best high school in Iran, their resume is available at their website.
+## 🛠️ Open Source Contributions
+
+- [**NestJS**](https://github.com/nestjs/nest): Progressive Node.js framework for scalable and enterprise-grade applications.
+- [**ChaiJS**](https://github.com/chaijs/chaijs.github.io): Maintainer of the chaijs.com site repository.
+- [**Jest**](https://github.com/facebook/jest): JavaScript testing framework.
+- [**Psalm**](https://github.com/vimeo/psalm): Static analysis tool for PHP by Vimeo.
+- [**Symfony**](https://github.com/symfony/symfony): Contributed to the core PHP framework.
+- [**V2Ray**](https://github.com/v2ray/v2ray-core): Network proxy tool for bypassing restrictions.
+- [**@nestjs/terminus**](https://github.com/nestjs/terminus): Health checks and monitoring module for NestJS.
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer – [Digikala](https://www.linkedin.com/company/digikala/?originalSubdomain=ir)
+- Added Dependency Injection (DI) and seeding support to an internal PHP framework.
+- Gained experience with PHP and Symfony.
+- Actively read and studied:
+  - *System Design Interview* by Alex Xu
+  - *Design Patterns* (Gang of Four)
+  - *Clean Code* by Robert C. Martin
+
+### Intermediate Software Engineer – [Tejarat Shayan](https://tejaratshayan.com/)
+- Designed and implemented a [2PC orchestration platform](https://github.com/thekhanj/2pc-platform) to handle distributed transactions across microservices.
+- Created an internal NPM package to unify shared logic between services:
+  - Automated RabbitMQ controller documentation for NestJS (similar to Swagger).
+  - Followed semantic versioning and managed peer dependencies.
+  - Emphasized strong unit testing practices and integration with centralized logging.
+- Developed a product catalog service based on Shopify's data model.
+- Improved DevOps by writing CLI tools, reducing duplication and misconfigurations.
+- Wrote scripts to crawl structured regional data (provinces and cities of Iran).
+- Key topics and tools learned: OOP design patterns, TDD, MongoDB, Redis, RabbitMQ, Reactive Programming, Microservices.
+- Books studied:
+  - *Microservices Patterns* by Chris Richardson
+  - *Unit Testing Principles* by Vladimir Khorikov
+  - *Learning SQL* by Alan Beaulieu
+
+### Junior Developer – [Bournix](https://ir.linkedin.com/company/bournix)
+- Learned TypeScript in depth.
+- Became proficient with Linux CLI and GNU tools.
+- Delivered multiple freelance projects during this time.
+
+---
+
+## 🎓 Education
+
+### B.Sc. Mathematics – [University of Tehran](https://www.linkedin.com/school/university-of-tehran/?originalSubdomain=ir)
+*2018 – Present*
+
+- Studying at Iran’s most internationally recognized university.
+
+### Computer Olympiad Program – Atomic Energy High School
+
+- Gained solid grounding in algorithms and competitive programming.
+- [Codeforces Profile](https://codeforces.com/profile/Khanj)
+
+---
+
+## 🧠 Projects & Side Work
+
+- Developed a Python-based trading bot that scraped stock data and executed trades based on custom strategies.
+- Built numerous command-line tools and scripts to automate tasks across different systems.
+
+---
+
+## 📚 Books & Learning Highlights
+
+- *Clean Code* by Robert C. Martin
+- *Design Patterns* by the Gang of Four
+- *System Design Interview* by Alex Xu
+- *Microservices Patterns* by Chris Richardson
+- *Learning SQL* by Alan Beaulieu
+- *Unit Testing Principles* by Vladimir Khorikov
+
+---
+
+*CV last updated: 2025-07*
