@@ -11,7 +11,7 @@ Available via Telegram or Email
 - [WhatsApp](https://wa.me/989213762364)
 - [Email](mailto:pooyankhan@gmail.com)
 - [Website](https://thekhanj.ir)
-- [LinkedIn](https://www.linkedin.com/in/pooyan-khanjankhani-a50459177/)
+- [LinkedIn](https://www.linkedin.com/in/thekhanj/)
 
 ---
 
